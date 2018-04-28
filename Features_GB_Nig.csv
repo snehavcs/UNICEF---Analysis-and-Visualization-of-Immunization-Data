@@ -1,0 +1,31 @@
+name,Score,label
+CDOB,0.0575778407053,Date of birth of child (CMC)
+BR1,0.0464665456734,Birth certificate
+CAGED,0.0426920832234,Age in days
+AG1D,0.0371949968099,Day of birth of child
+HC1B,0.0326991511976,Mother tongue of household head
+MN5,0.029519581394,
+ED4B,0.0230433952517,Highest grade completed at that level
+WM1,0.0201864818037,
+HAM,0.0192945385019,Height for age percent of reference median NCHS
+AN4,0.01923279951,Child's length or height (centimetres)
+wscore_x,0.0182387380181,
+WB5,0.0174213014984,
+HC3,0.0154977913776,Main material of floor
+HAZ,0.0141887356013,Height for age z-score NCHS
+HC14E,0.013452611735,Chickens
+PSU,0.0130442413291,Primary sampling unit
+HC1C,0.0125711967031,
+BR3A,0.0122639454552,
+TN2,0.0121119318262,Number of mosquito nets
+PSU_x,0.0113946596388,
+CA8,0.0102618919398,Difficulty breathing during illness with cough
+CD8,0.0099402656638,
+HC14G,0.00992870633138,
+SB7,0.00909090493627,
+AN3,0.00905081159124,Child's weight (kilograms)
+CM12Y,0.00899173133779,
+WS1,0.00847153993299,Main source of drinking water
+HC14D,0.0082287989777,Sheep
+chweight,0.00803861191587,Children's sample weight
+hhweight,0.00793918301126,Household sample weight
