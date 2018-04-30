@@ -1,0 +1,31 @@
+name,Score,label
+HF1,0.0834742194716,Cluster number
+CDOB,0.0599388036964,Date of birth of child (CMC)
+HF7,0.0316560173067,Interviewer number
+SL1,0.0235312126899,Total children aged 1-17 years
+HF11B,0.021977022293,Main data entry clerk number
+HF11A_42.0,0.0184364077276,
+MN5,0.0173606534656,
+HF9D,0.0169487253201,Day of birth
+CL12,0.0165778247008,Number of hours
+WM5,0.0151797468,
+BD8F,0.0138825830654,Child ate green leafy vegetables
+AG1D,0.013722007261,Day of birth of child
+BD3,0.0136199552165,Child still being breastfed
+BR4,0.0134335006035,Main reason Child's Birth not registered with Local Government Department (UC)
+BD8G,0.0133543743204,"Child ate ripe mangoes, papayas"
+HAZ2,0.0133335726245,Height for age z-score WHO
+TN12_3_x,0.0127000102321,
+WQ25,0.0120455073351,Number of blue colonies in 1mL HH water sample
+HF2,0.0116772407829,Household number
+HF13P0Y,0.0116499049189,Year of Polio at birth immunization
+wscore_x,0.0114843433759,
+MN3,0.0114487566292,
+BD8I,0.0113446121499,"Child ate liver, kidney, brain or other organ meat"
+HF8M,0.0112678809853,Month of interview
+CAGED,0.0109490124615,Age in days
+HF13P0D,0.00978085208855,Day of Polio at birth immunization
+BD11,0.0095553055093,Times child ate solid or semi-solid food
+HF11A_18.0,0.00878671008038,
+WQ10TM,0.00871762540694,Time of sample collection : Minutes
+wscore,0.00862622378671,Combined wealth score
