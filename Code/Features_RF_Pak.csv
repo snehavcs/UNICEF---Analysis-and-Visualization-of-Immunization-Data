@@ -1,0 +1,65 @@
+name,Score,label
+BD8C,0.0626919243388,Child ate foods made from grains
+HF8M,0.0401244536365,Month of interview
+HF13P0D,0.0387528969527,Day of Polio at birth immunization
+BD8M,0.0379323710926,"Child ate beans, lentils or nuts"
+BD8B,0.0370520890499,Child ate fortified baby food (cerelac etc.)
+BD8N,0.0364539328682,Child ate cheese or other food made from milk
+EC12,0.0277362395447,Child sometimes too sick to play
+BD6,0.0231889391417,Child drank ORS yesterday
+HF13T1M,0.0191931079553,Month of Pentavalent 1st Dose
+HF13T1Y,0.0177399881841,Year of Pentavalent 1st Dose
+EC10,0.0166204381102,Child knows name and recognizes symbol of all numbers from 1-10
+CAGE_6,0.0162850889506,Age
+AG1D,0.0122815604859,Day of birth of child
+HA8C,0.0105072828702,
+WHP,0.0101126297394,Weight for height percentile NCHS
+WS8,0.00884187693819,Type of toilet facility
+WS8,0.00884187693819,Type of toilet facility
+HF9Y,0.00819365926986,Year of birth
+HF13BY,0.0080342326247,Year of BCG immunization
+HF9D,0.00776350491552,Day of birth
+HA1,0.00767925424239,
+CAGE,0.00758352538527,Age (months)
+HF12D,0.00683976518637,Day of birth as written on vaccination record
+HF12Y,0.00678669963127,Year of birth as written on vaccination record
+windex5,0.00643263904404,Wealth index quintile
+windex5,0.00643263904404,Wealth index quintile
+windex5,0.00643263904404,Wealth index quintile
+PSU,0.00591754505161,Primary sampling unit
+PSU,0.00591754505161,Primary sampling unit
+AN2,0.00575460644063,Result of height / length and weight measurement
+HF12M,0.0056587585429,Month of birth as written on vaccination record
+SL1,0.00546344493112,Total children aged 1-17 years
+SL1,0.00546344493112,Total children aged 1-17 years
+CDOB,0.00537357257293,Date of birth of child (CMC)
+CAGED,0.00509762186944,Age in days
+HF7,0.00508000935207,Interviewer number
+AN4,0.005051443478,Child's length or height (centimetres)
+division,0.00469330453657,Division
+division,0.00469330453657,Division
+division,0.00469330453657,Division
+wscore,0.00464367102255,Combined wealth score
+wscore,0.00464367102255,Combined wealth score
+wscore,0.00464367102255,Combined wealth score
+chweight,0.00457979977989,Children's sample weight
+AN3,0.00449686696046,Child's weight (kilograms)
+ceweight,0.00447110842188,Chemical sample weight
+ceweight,0.00447110842188,Chemical sample weight
+HA10,0.00438930824729,
+WM1,0.00434193978961,
+WM5,0.00425672554888,
+AG2,0.0041397632498,Age of child
+HAP,0.00411083787464,Height for age percentile NCHS
+BMI,0.00387582384475,Body Mass Index WHO
+HF11,0.00377397980601,Result of health facility visit
+WM8,0.00375662303994,
+saweight,0.00374366937002,Salt sample weight
+saweight,0.00374366937002,Salt sample weight
+wscorer,0.00361357502823,Rural wealth score
+wscorer,0.00361357502823,Rural wealth score
+wscorer,0.00361357502823,Rural wealth score
+SL9A,0.00357789427538,Rank number of the selected child
+SL9A,0.00357789427538,Rank number of the selected child
+AG1Y,0.00356729641783,Year of birth of child
+ZBMI,0.00353734480854,Body Mass Index z-score WHO

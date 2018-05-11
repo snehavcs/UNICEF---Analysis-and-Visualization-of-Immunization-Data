@@ -1,0 +1,51 @@
+name,Score,label
+HF1,0.0805606140858,Cluster number
+CDOB,0.0645604751159,Date of birth of child (CMC)
+HF7,0.0354039336261,Interviewer number
+HF9D,0.0252900547546,Day of birth
+BD8G,0.02422310169,"Child ate ripe mangoes, papayas"
+HF12Y,0.0228415293026,Year of birth as written on vaccination record
+CA15,0.0203552918905,What was done to dispose of the stools
+HF11B,0.0190747996645,Main data entry clerk number
+wscore,0.0175547630753,Combined wealth score
+CAGED,0.0174811157315,Age in days
+HF8D,0.0166405081874,Day of interview
+HF11A,0.0157422017805,Field editor
+SL1,0.0145004340697,Total children aged 1-17 years
+HF13P0D,0.0126828364569,Day of Polio at birth immunization
+AG1D,0.0125530845072,Day of birth of child
+HC14A,0.0110750838144,"Cattle, milk cows, buffaloes or bulls"
+HF12D,0.0110583649212,Day of birth as written on vaccination record
+HC5,0.0110321869426,Main material of exterior wall
+BD8F,0.0106519491185,Child ate green leafy vegetables
+ED4B,0.0106479887592,Highest grade completed at that level
+CDOI,0.0106340215181,Date of interview child (CMC)
+WHM,0.0105989391681,Weight for height percent of reference median NCHS
+BD8O,0.0102724278204,"Child ate other solid, semi-solid or soft food yesterday"
+BD7EN,0.0102323268537,Times child drank infant formula
+HF13P0Y,0.00994343686027,Year of Polio at birth immunization
+TN12_3,0.0098099815072,Person 3 who slept under net
+ZBMI,0.00960876177409,Body Mass Index z-score WHO
+WS3,0.00919214611143,Location of the water source
+SL9A,0.00915002111752,Rank number of the selected child
+BR1A,0.00807301701991,Is the birth certificate issued by local government (Union Council)?
+MA4,0.00769783622994,
+HF11,0.00744665085506,Result of health facility visit
+HF13M2D,0.00738308186411,Day of Measles 2
+HF9M,0.00732203252426,Month of birth
+CDEAD,0.00726713409095,
+HF13T1D,0.00706571352851,Day of Pentavalent 1st Dose
+HW3BD_D,0.00687557396707,
+wscorer,0.00654004198625,Rural wealth score
+WM5,0.00647218746619,
+HF8M,0.00641475100719,Month of interview
+CA11B_B,0.00611831715396,
+HF13P3D,0.00598194245703,Day of Polio3 immunization
+HC14C,0.00585967764654,Goats
+MN9,0.00583320482752,
+MN7,0.00579492897877,
+BR4,0.0057050233265,Main reason Child's Birth not registered with Local Government Department (UC)
+WS8,0.00555459880166,Type of toilet facility
+HAM,0.00552605402532,Height for age percent of reference median NCHS
+WQ12ATH,0.00534981967354,Time of duplicate water sample : Hours
+HC9H,0.00524608632322,Tractor / agricultural machinery

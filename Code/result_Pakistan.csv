@@ -1,0 +1,44 @@
+,Coefficient,Column,Feature
+0,-0.722994623454,AG1D,Day of birth of child
+1,-0.207479211808,HF8M,Month of interview
+2,-0.106293315729,SL1,Total children aged 1-17 years
+3,-0.101109765687,SL9A,Rank number of the selected child
+4,-0.0807609984347,CDOI,Date of interview child (CMC)
+5,-0.0374456353243,HC14C,Goats
+6,-0.0281064489036,HF13M2D,Day of Measles 2
+7,-0.0194187283916,HC14A,"Cattle, milk cows, buffaloes or bulls"
+8,-0.0152461884465,CA15,What was done to dispose of the stools
+9,-0.00650708979139,HF13P3D,Day of Polio3 immunization
+10,-0.00642076517362,WS8,Type of toilet facility
+11,-0.00542014108969,HF8D,Day of interview
+12,-0.00500779279558,HF12D,Day of birth as written on vaccination record
+13,-0.00197663771949,WHM,Weight for height percent of reference median NCHS
+14,-0.00094171236662,CAGED,Age in days
+15,-2.58100125394e-05,HF12Y,Year of birth as written on vaccination record
+16,0.000524650865741,HF13P0Y,Year of Polio at birth immunization
+17,0.000632874740172,HAM,Height for age percent of reference median NCHS
+18,0.00213370544799,HF1,Cluster number
+19,0.00364430262545,HC5,Main material of exterior wall
+20,0.00496668381101,HF7,Interviewer number
+21,0.0108919602119,ZBMI,Body Mass Index z-score WHO
+22,0.0109077959332,HF11A,Field editor
+23,0.0135705375191,TN12_3,Person 3 who slept under net
+24,0.0139036124644,BR4,Main reason Child's Birth not registered with Local Government Department (UC)
+25,0.0145960395098,HF13T1D,Day of Pentavalent 1st Dose
+26,0.0230209445978,HF13P0D,Day of Polio at birth immunization
+27,0.0382414460318,ED4B,Highest grade completed at that level
+28,0.0668109878608,HF11,Result of health facility visit
+29,0.0808395881797,HF9M,Month of birth
+30,0.0811107421049,CDOB,Date of birth of child (CMC)
+31,0.0955244793755,BD8F,Child ate green leafy vegetables
+32,0.122119630019,HF11B,Main data entry clerk number
+33,0.137205175575,BD8O,"Child ate other solid, semi-solid or soft food yesterday"
+34,0.172732539357,WQ12ATH,Time of duplicate water sample : Hours
+35,0.225723929486,BD7EN,Times child drank infant formula
+36,0.266601311423,BD8G,"Child ate ripe mangoes, papayas"
+37,0.27047745502,WS3,Location of the water source
+38,0.27903549899,wscorer,Rural wealth score
+39,0.283234585779,HC9H,Tractor / agricultural machinery
+40,0.704983400821,HF9D,Day of birth
+41,0.768555557206,BR1A,Is the birth certificate issued by local government (Union Council)?
+42,1.0,wscore,Combined wealth score

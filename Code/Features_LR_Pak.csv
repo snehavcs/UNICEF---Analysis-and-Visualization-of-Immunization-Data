@@ -1,0 +1,72 @@
+,name,Score,label
+0,MN5,0.159065006759,
+1,BR1A,0.143880179627,Is the birth certificate issued by local government (Union Council)?
+2,WS3,0.119693120986,Location of the water source
+3,WS3,0.119693120986,Location of the water source
+4,BD7EN,0.118332232753,Times child drank infant formula
+5,BR1,0.108541237294,Birth certificate
+6,CL10D,0.107890046645,Household chores:  washing clothes
+7,CL10D,0.107890046645,Household chores:  washing clothes
+8,HC13,0.107782184513,Household own any animals
+9,HC13,0.107782184513,Household own any animals
+10,HC7,0.105855077607,Cooking location
+11,HC7,0.105855077607,Cooking location
+12,windex5r,0.0969368092058,Rural wealth index quintile
+13,windex5r,0.0969368092058,Rural wealth index quintile
+14,windex5r,0.0969368092058,Rural wealth index quintile
+15,MN10,0.0960205194407,
+16,EC2B,0.0934474174972,Toys from shops
+17,MN9,0.0873457217226,
+18,BD3,0.0862913293323,Child still being breastfed
+19,BD8L,0.0821103634718,Child ate fresh or dried fish or shellfish
+20,HA4,0.08064970358,
+21,CD3F,0.0793257206009,"Spanked, hit or slapped child on bottom with bare hand"
+22,CD3F,0.0793257206009,"Spanked, hit or slapped child on bottom with bare hand"
+23,HF8M,0.0780450962943,Month of interview
+24,HC8N,0.0764793321695,Internet
+25,HC8N,0.0764793321695,Internet
+26,MN7,0.0761525418597,
+27,CD3H,0.0757133758717,"Called child dumb, lazy or another name"
+28,CD3H,0.0757133758717,"Called child dumb, lazy or another name"
+29,WS7A_0,0.0755930247955,
+30,WQ17ATM,0.0755064608525,Time of bacterial test on water from source : Minutes
+31,WQ17ATM,0.0755064608525,Time of bacterial test on water from source : Minutes
+32,WS7A_A,0.074965477426,
+33,PN2N,0.0743065820024,
+34,HA6,0.0741298766536,
+35,HC1A,0.0741232761142,Religion of household head
+36,HC1A,0.0741232761142,Religion of household head
+37,wscorer,0.0738687990406,Rural wealth score
+38,wscorer,0.0738687990406,Rural wealth score
+39,wscorer,0.0738687990406,Rural wealth score
+40,CD3A,0.0726398805316,Took away privileges
+41,CD3A,0.0726398805316,Took away privileges
+42,BD8K,0.0724619036192,Child ate eggs
+43,WHZ,0.0723400826798,Weight for height z-score NCHS
+44,WB7,0.0722044715809,
+45,HC9C,0.0719101157392,Bicycle
+46,HC9C,0.0719101157392,Bicycle
+47,CA3,0.0714071486798,Child ate less or more during illness
+48,WS6,0.0710954413689,Treat water to make safer for drinking
+49,WS6,0.0710954413689,Treat water to make safer for drinking
+50,WQ17TM,0.0707954842887,Time of sample collection from source : Minutes
+51,WQ17TM,0.0707954842887,Time of sample collection from source : Minutes
+52,BD7F,0.0702277074608,Child drank any other liquid yesterday
+53,wscore,0.0700417001146,Combined wealth score
+54,wscore,0.0700417001146,Combined wealth score
+55,wscore,0.0700417001146,Combined wealth score
+56,CA6X_X,0.0691140332956,
+57,SL1,0.0678828703924,Total children aged 1-17 years
+58,SL1,0.0678828703924,Total children aged 1-17 years
+59,CA6X_0,0.0676679563382,
+60,DB2,0.0664499255563,
+61,UN13U,0.0659798927841,
+62,WM6M,0.0656373637444,
+63,TNLN,0.0651075199886,Net number
+64,MN4A,0.0650467084638,
+65,CDOI,0.0620610061276,Date of interview child (CMC)
+66,CM7B,0.0617230898419,
+67,BD7DN,0.060528344857,Times child drank milk
+68,HC8F,0.0593359992657,Freezer
+69,HC8F,0.0593359992657,Freezer
+70,WAZ,0.0588421444933,Weight for age z-score NCHS
